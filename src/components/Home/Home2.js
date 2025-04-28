@@ -35,6 +35,7 @@ function Home2() {
                 <b className="purple">
                   Data Analytics.
                 </b>
+                
               </i>
               <br />
               <br />
